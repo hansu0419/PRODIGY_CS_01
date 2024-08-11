@@ -23,7 +23,16 @@ To run the web application locally and open it in your browser:
 ```
 $ python app.py
 ```
+
+
 After running the above command, open the program by clicking [here](http://127.0.0.1:9090/).
+
+## DEMO
+### Encrypt
+![PRODIGY_CS_01_encrypt](https://github.com/user-attachments/assets/89f372dd-5e54-4f63-bf79-3c5fec6ca9dd)
+### Decrypt
+![PRODIGY_CS_01_decrypt](https://github.com/user-attachments/assets/51c78606-e9de-4efc-9431-962a2e673415)
+
 
 ## Web App Features
 - **Text Encryption**:  Input your message and shift value to encrypt the text.
